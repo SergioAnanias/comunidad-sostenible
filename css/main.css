@@ -1,0 +1,52 @@
+/* Inserta tu codigo aqui */
+
+.jumbotron {
+padding: 4rem 2rem;
+margin-bottom: 2rem;
+background-color: var(--bs-light);
+border-radius: .3rem;
+}
+
+.seed
+{
+    background-image: url("../img/semilla.jpg");
+    height: 500px;
+    background-size: cover;
+    background-position: 0% 50%;
+}
+
+.fondo
+{
+    background-image: url("../img/fondo.jpg");
+    width: auto;
+    background-size: cover;
+    height: auto;
+}
+
+.circle-icon{
+    border-radius: 50%;
+}
+
+.redes{
+    margin-left: 280px;
+}
+
+.fondob{
+    background-image: url("../img/fondo2.jpg");
+    height: auto;
+}
+
+.minh{
+    height: 300px;
+}
+
+li{
+    display: inline-block;
+    text-decoration: none;
+    color:#F2F2F2;
+}
+
+a{
+    color:#F2F2F2;
+}
+
